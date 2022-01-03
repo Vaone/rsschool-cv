@@ -1,4 +1,4 @@
-## Vladimir Kim      <div style="float: right;"> ![](ava.png) </div>
+## Vladimir Kim      --------------------------------------------- ![](ava.png) 
 ---
 ##### _Frontend Web Developer_ 
 ***
