@@ -1,1 +1,1 @@
-# https://Vaone.github.io/rsschool-cv/cv
+# https://Vaone.github.io/rsschool-cv/
